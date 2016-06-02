@@ -1,0 +1,8 @@
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\bin\Debug\RiverChecker.exe.config
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\bin\Debug\RiverChecker.exe
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\bin\Debug\RiverChecker.pdb
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\obj\Debug\RiverChecker.csprojResolveAssemblyReference.cache
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\obj\Debug\RiverChecker.exe
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\obj\Debug\RiverChecker.pdb
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\bin\Debug\Newtonsoft.Json.dll
+c:\users\vi-axe\documents\visual studio 2015\Projects\RiverChecker\RiverChecker\bin\Debug\Newtonsoft.Json.xml
