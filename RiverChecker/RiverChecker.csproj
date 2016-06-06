@@ -47,6 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MeasuresProcessor.cs" />
+    <Compile Include="RiverLevelChecker.cs" />
+    <Compile Include="StationItem.cs" />
+    <Compile Include="StationsJsonResult.cs" />
     <Compile Include="MeasuresJsonResult.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

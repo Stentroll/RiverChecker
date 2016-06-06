@@ -2,7 +2,7 @@
 
 namespace RiverChecker
 {
-    //Class for parsing JSON measurement objects
+    // Class for receiving parsed data from the individual measures items from the river levels API
     internal class MeasureItem
     {
         public string id { get; set; }
